@@ -1,0 +1,133 @@
+
+
+@media (max-width: 767px) {
+    .logo{
+        width: 87px;
+        height: 53px;
+        display: flex;
+    }
+    #home::after{
+        height: 170%;
+        top: -65%;
+        right: -30%;
+        transform: rotate(-12deg);
+        border-radius: 44%;
+        -webkit-border-radius: 44%;
+        -moz-border-radius: 44%;
+        -ms-border-radius: 44%;
+        -o-border-radius: 44%;
+        -webkit-transform: rotate(-12deg);
+        -moz-transform: rotate(-12deg);
+        -ms-transform: rotate(-12deg);
+        -o-transform: rotate(-12deg);
+    }
+    h1{
+        font-size:2.8rem;
+    }
+    h2{
+        font-size:2rem;
+        line-height: 2.0625rem;
+    }
+    /* top banner */
+    .top-banner{
+        padding:5rem 0 0 0;
+    }
+    .banner{
+        padding:11rem 0 9.375rem;
+    }
+
+    /* last section */
+    .download{
+        padding:5rem 0 2rem;
+    }
+    .download h1{
+        font-size: 40px;
+        line-height: 1.2em;
+        padding-right: 0;
+    }
+    .download p {
+        font-size: 13px;
+        line-height: 1.6em;
+        padding-right: 0;
+    }
+    .last-img {
+        padding:0 0 6rem 0;
+    }
+    .googlePlay {
+        margin: 5px;
+        padding-left: 4px;
+        
+    }
+    .appStore {
+        padding-right: 4px;
+    }
+
+    /*Refer & Earn*/
+    .Refer-Earn{
+        margin: 0 !important;
+    }
+    .list {
+        font-size: 40px;
+    }
+    .Refer-Earn ul li{
+        font-size:0.8rem;
+    }
+
+
+    /* counter section */
+    .download-icon,
+    .user-icon,
+    .star-icon {
+        font-size: 60px;
+    }
+    /* self container */
+    .a-container{
+        padding: 0 2rem !important;
+    }
+
+    /*counter section*/
+    .counter-section::before{
+        width: 177vh;
+        height: 400vh;
+        border-radius: 46% 47%;
+    }
+    .counter-section::after{
+        width: 200vh;
+        height: 315vh;
+        border-radius: 46% 47%;
+    }
+    .finalSection::after{
+        width: 200vh;
+        height: 300vh;
+    }
+    .finalSection::before{
+        width: 200vh;
+        height: 300vh;
+    }
+
+    .main-text{
+        color: #EBC136;
+        font-size: 33px;
+        padding-right: 1rem;
+    }
+    .main-p{
+        font-size: 15px;
+        padding-right: 1rem;
+    }
+    .button-con{
+        height: 65px;
+    }
+    .copyright{
+        margin: 6px 0;
+        padding: 0;
+    }
+    .whatsApp {
+        font-size: 35px;
+        bottom: 30px;
+        right: 40px;
+        width: 45px;
+        height: 45px;
+        padding-left: 7px;
+        padding-top: 5px;
+    }
+}

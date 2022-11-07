@@ -1,0 +1,21 @@
+/* Variable Define */
+:root {
+    --primary-color: #3CAEA4;
+    --secondry-color: #33353f;
+    --third-color: #f98169;
+    --white-color: #fff;
+    --text-color: rgba(48,53,61,0.73);
+    --text-gray: #999;
+    --black-color: #000;
+    --primary-font: 'Roboto', sans-serif;
+    --secondry-font: 'Quicksand', sans-serif;
+}
+
+
+/*
+.bg-primary-color{
+    background-color: var(--primary-color);
+}
+.c-primary-color{
+    color: var(--primary-color);
+}*/
