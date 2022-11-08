@@ -13,7 +13,7 @@ I built This website using HTML5, CSS3, Bootstrap & Javascript with responsive d
 ### https://aliaafarouk.github.io/Manasik/
 
 ## Snapshots
-### ![2022-11-07 (1)](https://user-images.githubusercontent.com/76823275/200399194-d45bf370-eecf-41ae-8190-805b45280282.png)
+![2022-11-07 (1)](https://user-images.githubusercontent.com/76823275/200399194-d45bf370-eecf-41ae-8190-805b45280282.png)
 ![2022-11-07 (2)](https://user-images.githubusercontent.com/76823275/200399602-a9bf5187-d3ac-45c5-baa0-c7ed9866086a.png)
 ![2022-11-07 (3)](https://user-images.githubusercontent.com/76823275/200399772-a3222918-33ce-40a8-81bd-19d732b02ee9.png)
 ![2022-11-07 (4)](https://user-images.githubusercontent.com/76823275/200399872-fc03e5ed-e8a8-4fe2-ba3f-d6b69c35cc52.png)
