@@ -1,15 +1,15 @@
 ## Manasik Website
 ### This is a religious website I made during learning HTML5, CSS3, Bootstrap & Javascript.
-### This website is an advertisement for an application called Manasik
+### This website is an advertisement for an application called Manasik.
 
 ## Tools
-* HTML5 -> To create the structure of the website 
-* CSS3 -> To describe how HTML elements are to be displayed on screen and add some animations
-* Bootstrap -> To make my work easier and faster
-* Javascript -> To make interactive web pages
+* HTML5 -> To create the structure of the website.
+* CSS3 -> To describe how HTML elements are to be displayed on screen and add some animations.
+* Bootstrap -> To make my work easier and faster.
+* Javascript -> To make interactive web pages.
 
 ## Demo
-I built This website using HTML5, CSS3, Bootstrap & Javascript with responsive design 
+I built This website using HTML5, CSS3, Bootstrap & Javascript with responsive design.
 ### https://aliaafarouk.github.io/Manasik/
 
 ## Snapshots
