@@ -1,6 +1,6 @@
 ## Manasik Website
-This is a religious website I made during learning HTML5, CSS3, Bootstrap & Javascript
-This website is an advertisement for an application called Manasik
+### This is a religious website I made during learning HTML5, CSS3, Bootstrap & Javascript.
+### This website is an advertisement for an application called Manasik
 
 ## Tools
 * HTML5 -> To create the structure of the website 
